@@ -9,6 +9,7 @@ Attribution 4.0 International
 https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
 
 # Relevant API documentation
+https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
 
 # Intermediary data files and final output files
 <img width="536" alt="image" src="https://github.com/ananya-bajaj-DS/DATA512_Homework1/assets/121599846/56d9100a-3b27-4132-8bf5-dfae6470fe73">
